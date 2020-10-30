@@ -97,3 +97,4 @@ C:\Users\com 1\source\repos\DockerPracticeCheck\obj\Debug\netcoreapp3.1\staticwe
 C:\Users\com 1\source\repos\DockerPracticeCheck\obj\Debug\netcoreapp3.1\DockerPracticeCheck.dll
 C:\Users\com 1\source\repos\DockerPracticeCheck\obj\Debug\netcoreapp3.1\DockerPracticeCheck.pdb
 C:\Users\com 1\source\repos\DockerPracticeCheck\obj\Debug\netcoreapp3.1\DockerPracticeCheck.genruntimeconfig.cache
+C:\Users\com 1\source\repos\DockerPracticeCheck\bin\Debug\netcoreapp3.1\DockerPracticeCheckConfig.yaml
